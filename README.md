@@ -4,7 +4,7 @@
 
 2. My favorites are Ruby on Rails, AWS
 
-3. You can find my Health Blog at [20歳からのアンチエイジング](https://mametaro99.github.io/)
+3. You can find my Blog at https://mametaro99.github.io/my-profile/
 
 4. You can find my Zenn Blog [here](https://zenn.dev/mametaro)
 
