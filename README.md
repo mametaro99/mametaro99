@@ -21,5 +21,5 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker,git,github,vscode,linux,aws,nginx" /> <br /><br />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mametaro99&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mametaro&show_icons=false&locale=en&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mametaro99&theme=default)
